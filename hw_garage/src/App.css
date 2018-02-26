@@ -13,13 +13,17 @@ a{
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  padding-right: 27px; 
+  padding-left: 600px; 
 }
 
-
 .login{
-  font-size: 21px;
-  padding-left: 1250px;
+  color: yellow;
+  font-size: 12px;
+  width: 90px;
+  border: 1px solid red;
+  border-radius: 3px;
+  padding: 10px;
+  background: red;
 }
 
 .Navbar{
@@ -34,5 +38,5 @@ a{
 }
 
 .profile{
-  color: orange;
+  color: yellow;
 }
