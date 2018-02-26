@@ -17,7 +17,7 @@ class App extends Component {
       </div>
       </div>
         <div className='Navbar'>
-        <Link to='/profile'>
+        <Link to='/Profile'>
           <div className='profile'>Profile</div>
         </Link>
         </div>
